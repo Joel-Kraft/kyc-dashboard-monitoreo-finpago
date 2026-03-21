@@ -36,7 +36,7 @@ normativa argentina 2026.
 - **Debida Diligencia Continuada:** estado de vencimiento del legajo KYC de los 50 clientes de la cartera, con semáforo (AL DÍA / PRÓXIMO / CRÍTICO / VENCIDO) y cola de trabajo diaria para el analista.
 - **Índice de Cumplimiento KYC:** porcentaje de la cartera con legajo al día, con umbrales Verde (≥80%) / Amarillo (60–79%) / Rojo (<60%).
 - **Cotejo de listas FPADM:** estado del cotejo OFAC/ONU/FPADM por cliente bajo Res. UIF N° 3/2026.
-- **Reportes Sistemáticos:** estado del RSA (Reporte Sistemático Anual) y RTE (Reporte de Transacciones con Efectivo) con fechas límite y días de desvío. **Este indicador es el diferenciador del proyecto:** ningún otro dashboard de portfolio AML jr monitorea las obligaciones de reporting del propio sujeto obligado ante la UIF.
+- **Reportes Sistemáticos:** estado del RSA (Reporte Sistemático Anual) y RTE (Reporte de Transacciones con Efectivo) con fechas límite y días de desvío. Monitorea las obligaciones de reporting del propio sujeto obligado ante la UIF.
 
 ---
 
