@@ -20,7 +20,7 @@ normativa argentina 2026.
 
 ## Capturas del dashboard
 
-### Página 1 — Vista Operacional (Analista Jr)
+### Página 1 — Vista Operacional (Analista)
 ![Página 1](dashboard/pagina1_vista_operacional.png)
 
 ### Página 2 — Vista Gerencial (Oficial de Cumplimiento)
